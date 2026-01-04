@@ -1,0 +1,7 @@
+__pycache__/
+*.pkl
+*.jpg
+*.png
+temp.jpg
+data/
+Bollywood_celeb_face_localized/
