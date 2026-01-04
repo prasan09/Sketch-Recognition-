@@ -1,0 +1,7 @@
+torch
+facenet-pytorch
+opencv-python
+mediapipe
+streamlit
+numpy==1.26.4
+Pillow
